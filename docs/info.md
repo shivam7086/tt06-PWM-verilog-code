@@ -1,4 +1,4 @@
-<!---
+l<!---
 
 This file is used to generate your project datasheet. Please fill in the information below and delete any unused
 sections.
@@ -11,9 +11,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 Explain how your project works
 
+We want to design Pluse width Modulation (PWM) with input Frequency is 50MHz.
+
 ## How to test
 
 Explain how to use your project
+We check our design with the hlep of OpenROAD flow script (ORFS).
 
 ## External hardware
 
