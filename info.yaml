@@ -3,7 +3,7 @@ project: design a Pluse Width Modulation
   title:        "Pluse Width Modulation"      # Project title
   author:       "Shivam Bhardwaj & Sachin Sharma"     # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Pluse width modulate"      # One line description of what your project does
+  description:  "Modulates the width of the pulse"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     50MHz       # Clock frequency in Hz (or 0 if not applicable)
 
