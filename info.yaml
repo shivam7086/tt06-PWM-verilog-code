@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project: design a Pluse Width Modulation
-  title:        Pluse Width Modulation       # Project title
+  title:        PWM_Generator_Verilog       # Project title
   author:       Shivam Bhardwaj & Sachin Sharma     # Your name
   discord:            # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  Modulates the width of the pulse      # One line description of what your project does
